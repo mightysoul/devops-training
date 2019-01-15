@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 test4 modified
 
 line added.
+=======
+test4 modified
+>>>>>>> 3f3239e7db7d9359fe92e3830493204d93945c44
